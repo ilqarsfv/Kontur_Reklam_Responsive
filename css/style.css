@@ -1263,7 +1263,7 @@ header .section-top .right-side .phone-link span {
   }
 
   #burger_box p a {
-    font-size: 19px;
+    font-size: 22px;
   }
 
   header div:nth-child(1) {
@@ -1360,6 +1360,9 @@ header .section-top .right-side .phone-link span {
   }
   header .section-middle .custom-btn {
     margin-left: 0;
+  }
+  #projects #works #projects_title a {
+    font-size: 15px;
   }
 }
 
