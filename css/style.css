@@ -1333,6 +1333,10 @@ header .section-top .right-side .phone-link span {
   #services #cards_box #all_cards .custom_card .card_content .card_button {
     width: 85%;
   }
+  #references #ref_boxes .ref_box p {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -1345,7 +1349,6 @@ header .section-top .right-side .phone-link span {
   }
 
   #services #cards_box #all_cards .custom_card .card_content .card_button {
-    /* width: 120px; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1358,9 +1361,9 @@ header .section-top .right-side .phone-link span {
   header .section-middle .custom-btn {
     margin-left: 0;
   }
-  #references #ref_boxes .ref_box p {
+  /* #references #ref_boxes .ref_box p {
     margin: 20px 0px 0px;
-  }
+  } */
 }
 
 /*# sourceMappingURL=style.css.map */
